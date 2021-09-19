@@ -525,8 +525,9 @@ def buat_folder():
 	try:os.mkdir("OK")
 	except:pass
 
-if __name__ == "__main__":
-	os.system("git pull")
-	os.system("touch login.txt")
-	buat_folder()
-	login()
+
+if __name__ == '__main__':
+
+    main() 
+
+	
