@@ -58,7 +58,7 @@ print("""\xlb[0;32m╔═══════════════════�
 \x1b[0;33m║WELCOME TO MULTI CRACK TOOLS      ║
 \x1b[0;33m║ AUTHOR    =    HAMAYUN KHAN      ║
 \x1b[0;33m╚═════════════════════════════╝
-\x1b[1;93m ---------------------------------------------
+\x1b[1;33m ---------------------------------------------
 \x1b[0;33m╔════════════════════════════════════════════╗
 \x1b[0;33m║#WEBSITE  : FOLLOW MY FACEBOOK TO FIND IT.║
 \x1b[0;33m║#FACEBOOK : NAME [Hamayun Khan ].         ║
